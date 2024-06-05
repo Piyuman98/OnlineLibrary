@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Return Book";
+}
+
+<h2>Return Book</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Return Book</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.Label("BookID", "Book", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("BookID", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessage("BookID", "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("GuestID", "Guest", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("GuestID", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessage("GuestID", "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Return" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}

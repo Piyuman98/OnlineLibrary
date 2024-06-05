@@ -1,0 +1,464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.Guests.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.Reservations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.Message.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.Messages.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\views\\guest\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\views\\guest\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.BookReservation.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.CDReservation.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\views\\admin\\returnbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\views\\admin\\returnbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\views\\admin\\issuebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\views\\admin\\issuebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\views\\admin\\deletebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\views\\admin\\deletebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\views\\guest\\reservebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\views\\guest\\reservebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\views\\guest\\leavemessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\views\\guest\\leavemessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\migrations\\202405291928230_addmessagefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\migrations\\202405291928230_addmessagefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\views\\guest\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\views\\guest\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\views\\admin\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\views\\admin\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.Admins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\dilma\\source\\repos\\onlinelibrary\\onlinelibrary\\migrations\\202405291831177_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F65DB3-2094-4078-84CE-DF37A4F2C5BD}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\migrations\\202405291831177_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Message [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.Message.sql",
+              "ToolTip": "dbo.Message [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-29T19:43:22.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.BookReservation [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.BookReservation.sql",
+              "ToolTip": "dbo.BookReservation [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-29T19:40:55.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.CDReservation [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.CDReservation.sql",
+              "ToolTip": "dbo.CDReservation [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-29T19:40:36.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-29T19:40:23.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Reservations [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.Reservations.sql",
+              "ToolTip": "dbo.Reservations [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-29T19:40:10.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Messages [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.Messages.sql",
+              "ToolTip": "dbo.Messages [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-29T19:30:18.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "202405291928230_AddMessageFields.cs",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Migrations\\202405291928230_AddMessageFields.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Migrations\\202405291928230_AddMessageFields.cs",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Migrations\\202405291928230_AddMessageFields.cs",
+              "RelativeToolTip": "OnlineLibrary\\Migrations\\202405291928230_AddMessageFields.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:28:28.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Guests [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.Guests.sql",
+              "ToolTip": "dbo.Guests [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-29T19:23:12.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeaveMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Guest\\LeaveMessage.cshtml",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Views\\Guest\\LeaveMessage.cshtml",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Guest\\LeaveMessage.cshtml",
+              "RelativeToolTip": "OnlineLibrary\\Views\\Guest\\LeaveMessage.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T19:20:25.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReserveBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Guest\\ReserveBook.cshtml",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Views\\Guest\\ReserveBook.cshtml",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Guest\\ReserveBook.cshtml",
+              "RelativeToolTip": "OnlineLibrary\\Views\\Guest\\ReserveBook.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwCEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T19:20:03.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Guest\\SearchResults.cshtml",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Views\\Guest\\SearchResults.cshtml",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Guest\\SearchResults.cshtml",
+              "RelativeToolTip": "OnlineLibrary\\Views\\Guest\\SearchResults.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T19:19:29.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Guest\\Search.cshtml",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Views\\Guest\\Search.cshtml",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Guest\\Search.cshtml",
+              "RelativeToolTip": "OnlineLibrary\\Views\\Guest\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T19:17:23.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GuestController.cs",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Controllers\\GuestController.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Controllers\\GuestController.cs",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Controllers\\GuestController.cs",
+              "RelativeToolTip": "OnlineLibrary\\Controllers\\GuestController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:16:45.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Models\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Models\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Models\\LibraryContext.cs",
+              "RelativeToolTip": "OnlineLibrary\\Models\\LibraryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:16:26.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Models\\Reservation.cs",
+              "RelativeToolTip": "OnlineLibrary\\Models\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:15:20.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OnlineLibrary\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T19:03:39.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Books.cshtml",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Admin\\Books.cshtml",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Views\\Admin\\Books.cshtml",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Admin\\Books.cshtml",
+              "RelativeToolTip": "OnlineLibrary\\Views\\Admin\\Books.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T18:55:16.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReturnBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Admin\\ReturnBook.cshtml",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Views\\Admin\\ReturnBook.cshtml",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Admin\\ReturnBook.cshtml",
+              "RelativeToolTip": "OnlineLibrary\\Views\\Admin\\ReturnBook.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T18:54:28.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IssueBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Admin\\IssueBook.cshtml",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Views\\Admin\\IssueBook.cshtml",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Admin\\IssueBook.cshtml",
+              "RelativeToolTip": "OnlineLibrary\\Views\\Admin\\IssueBook.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T18:53:33.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Admin\\DeleteBook.cshtml",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Views\\Admin\\DeleteBook.cshtml",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Views\\Admin\\DeleteBook.cshtml",
+              "RelativeToolTip": "OnlineLibrary\\Views\\Admin\\DeleteBook.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwDEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T18:49:42.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "OnlineLibrary\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAcwJIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:28:56.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "OnlineLibrary\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:42:43.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Models\\Message.cs",
+              "RelativeToolTip": "OnlineLibrary\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:39:44.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Models\\Guest.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Models\\Guest.cs",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Models\\Guest.cs",
+              "RelativeToolTip": "OnlineLibrary\\Models\\Guest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:39:43.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Models\\Book.cs",
+              "RelativeToolTip": "OnlineLibrary\\Models\\Book.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:39:42.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Models\\Admin.cs",
+              "RelativeToolTip": "OnlineLibrary\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:39:40.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dbo.Admins [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LibraryDB/True/SqlTable/dbo.Admins.sql",
+              "ToolTip": "dbo.Admins [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-29T18:34:44.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "202405291831177_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Migrations\\202405291831177_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Migrations\\202405291831177_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\dilma\\source\\repos\\OnlineLibrary\\OnlineLibrary\\Migrations\\202405291831177_InitialCreate.cs",
+              "RelativeToolTip": "OnlineLibrary\\Migrations\\202405291831177_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:31:23.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

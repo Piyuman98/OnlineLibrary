@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Search Books";
+}
+
+<h2>Search Books</h2>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Title, Author or Genre: @Html.TextBox("searchString")
+        <input type="submit" value="Search" class="btn btn-default" />
+    </p>
+}
